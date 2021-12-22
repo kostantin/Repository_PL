@@ -1,0 +1,14 @@
+C:\Users\PCqwerty\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\PCqwerty\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\PCqwerty\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\PCqwerty\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\PCqwerty\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\PCqwerty\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.AssemblyReference.cache
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\PCqwerty\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache

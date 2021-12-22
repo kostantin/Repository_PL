@@ -1,0 +1,14 @@
+C:\Users\PCqwerty\source\repos\Task2\Task2\bin\Release\netcoreapp3.1\Task2.exe
+C:\Users\PCqwerty\source\repos\Task2\Task2\bin\Release\netcoreapp3.1\Task2.deps.json
+C:\Users\PCqwerty\source\repos\Task2\Task2\bin\Release\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\PCqwerty\source\repos\Task2\Task2\bin\Release\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\PCqwerty\source\repos\Task2\Task2\bin\Release\netcoreapp3.1\Task2.dll
+C:\Users\PCqwerty\source\repos\Task2\Task2\bin\Release\netcoreapp3.1\Task2.pdb
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.dll
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.pdb
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.genruntimeconfig.cache
+C:\Users\PCqwerty\source\repos\Task2\Task2\obj\Release\netcoreapp3.1\Task2.csproj.AssemblyReference.cache

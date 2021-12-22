@@ -1,0 +1,5 @@
+C:\xampp\Release\task2\Task2.exe
+C:\xampp\Release\task2\Task2.dll
+C:\xampp\Release\task2\Task2.deps.json
+C:\xampp\Release\task2\Task2.runtimeconfig.json
+C:\xampp\Release\task2\Task2.pdb

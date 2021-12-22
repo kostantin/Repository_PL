@@ -1,0 +1,14 @@
+C:\Users\PCqwerty\source\repos\Task1\Task1\bin\Release\netcoreapp3.1\Task1.exe
+C:\Users\PCqwerty\source\repos\Task1\Task1\bin\Release\netcoreapp3.1\Task1.deps.json
+C:\Users\PCqwerty\source\repos\Task1\Task1\bin\Release\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\PCqwerty\source\repos\Task1\Task1\bin\Release\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\PCqwerty\source\repos\Task1\Task1\bin\Release\netcoreapp3.1\Task1.dll
+C:\Users\PCqwerty\source\repos\Task1\Task1\bin\Release\netcoreapp3.1\Task1.pdb
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.dll
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.pdb
+C:\Users\PCqwerty\source\repos\Task1\Task1\obj\Release\netcoreapp3.1\Task1.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+C:\xampp\Release\task4\Task4.exe
+C:\xampp\Release\task4\Task4.dll
+C:\xampp\Release\task4\Task4.deps.json
+C:\xampp\Release\task4\Task4.runtimeconfig.json
+C:\xampp\Release\task4\Task4.pdb
